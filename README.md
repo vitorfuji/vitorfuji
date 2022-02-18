@@ -1,6 +1,6 @@
-## Hello there! I'm Vitor Fujiwara ✌️
+# <p align="center">Hello there! I'm Vitor Fujiwara ✌️</p>
 
-## I'm a developer from Brazil who really enjoys learning languages and frameworks.
+## <p align="center">I'm a developer from Brazil who really enjoys learning languages and frameworks.</p>
 
 - 📕 I'm currently learning Java and Flutter
 - 📧 How to reach me vitorhugo.fujiwara@gmail.com
