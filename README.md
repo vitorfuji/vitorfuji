@@ -3,7 +3,7 @@
 ## <p align="center">Mobile Software Developer (Flutter & React Native)</p>
 
 <p align="center">
-Developer from Brazil with 4+ years of experience building cross-platform mobile applications.  
+Developer from Brazil with 5+ years of experience building cross-platform mobile applications.  
 Passionate about creating scalable solutions, learning new technologies and improving user experiences.
 </p>
 
@@ -12,7 +12,7 @@ Passionate about creating scalable solutions, learning new technologies and impr
 ## 🚀 About Me
 
 - 📱 Mobile Developer focused on **Flutter** and **React Native**
-- 💼 4+ years of experience building **cross-platform mobile applications**
+- 💼 5+ years of experience building **cross-platform mobile applications**
 - 🔗 Experience integrating **REST APIs and scalable mobile architectures**
 - 🧠 Always learning new frameworks and technologies
 - 📍 Based in Brazil
